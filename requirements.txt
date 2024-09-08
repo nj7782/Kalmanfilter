@@ -1,0 +1,7 @@
+opencv-python-headless==4.5.5.64
+numpy==1.21.4
+torch==1.10.0
+scipy==1.7.2
+matplotlib==3.4.3
+filterpy==1.4.5  # For Kalman Filter implementation
+sort==1.2.4  # For SORT tracking algorithm
